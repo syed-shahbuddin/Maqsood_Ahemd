@@ -10,9 +10,8 @@ export const site = {
   whatsapp: "https://wa.me/919148337778?text=Hi",
   linkedin: "https://www.linkedin.com/", // TODO: replace with your profile URL
   roles: ["Finance Student", "US CMA Candidate", "Strategist", "Analyst"],
-  eyebrow: "Strategic Finance · Class of '29",
   description:
-    "Studying how businesses turn financial and market insight into growth — and building the Excel, research and analysis skills to do it myself. Open to a first internship in finance or business.",
+    "Studying how businesses turn financial and market insight into growth — and building the Excel, research and analysis skills to do it myself.",
   heroVideo:
     "https://stream.mux.com/Aa02T7oM1wH5Mk5EEVDYhbZ1ChcdhRsS2m1NYyx4Ua1g.m3u8",
   marquee: "OPEN TO FINANCE INTERNSHIPS",

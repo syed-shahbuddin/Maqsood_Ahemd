@@ -52,10 +52,6 @@ export default function Hero({ start }: { start: boolean }) {
         className="relative z-10 flex flex-col items-center px-6 pt-32 pb-28 text-center"
         style={{ visibility: start ? "visible" : "hidden" }}
       >
-        <p className="blur-in mb-8 text-xs uppercase tracking-[0.3em] text-muted">
-          {site.eyebrow}
-        </p>
-
         <h1 className="name-reveal mb-6 font-display text-6xl italic leading-[0.9] tracking-tight text-text-primary md:text-8xl lg:text-9xl">
           {site.name}
         </h1>
